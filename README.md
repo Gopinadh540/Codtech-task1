@@ -1,4 +1,4 @@
-Name: Banothu Gopi Nadh
+Name:Banothu Gopi Nadh
 Company : Codtech IT solutions
 Id : CT6WTDS425 
 Domain : Python Programming 
